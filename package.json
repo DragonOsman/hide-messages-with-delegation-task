@@ -1,0 +1,32 @@
+{
+  "name": "remove-btn-event-deleg_task",
+  "version": "1.0.0",
+  "description": "Javascript.info Task to use event delegation on div element to hide nested divs when a \"[x]\" button is clicked",
+  "main": "scripts/script.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DragonOsman/hide-messages-with-delegation-task.git"
+  },
+  "keywords": [
+    "event-delegetion-task",
+    "javascript.info-task",
+    "remove-button"
+  ],
+  "author": "Osman Zakir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DragonOsman/hide-messages-with-delegation-task/issues"
+  },
+  "homepage": "https://github.com/DragonOsman/hide-messages-with-delegation-task#readme",
+  "dependencies": {
+    "babel-eslint": "^10.0.3"
+  },
+  "devDependencies": {
+    "eslint": "^6.7.1",
+    "eslint-config-standard": "^14.1.0",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-node": "^10.0.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1"
+  }
+}
